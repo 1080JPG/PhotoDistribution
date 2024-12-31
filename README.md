@@ -35,5 +35,5 @@
 
 在命令行或终端中运行脚本：
 ```bash
-python photo_exif_analyzer.py
+python main.py
 ```
